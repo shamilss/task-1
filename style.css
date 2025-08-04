@@ -1,0 +1,161 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Alegreya", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+:root {
+    --x: rgb(66, 8, 8);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#main {
+    background-image: url('./img/photo-1499028344343-cd173ffc68a9.jpeg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+#navbar{
+    background-color: white;
+}
+
+#backg {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.375);
+}
+
+#logo {
+    width: 75px;
+    height: 70px;
+}
+
+ul li {
+    font-size: 20px;
+}
+
+#butn {
+    background-color: var(--x);
+    color: white;
+
+}
+
+#butn:hover {
+    background-color: white;
+    color: var(--x);
+    border-color: var(--x);
+}
+
+li i {
+    color: gray;
+}
+
+#wlcm {
+    
+    color: white;
+}
+
+#wlcm h1 {
+    font-size: 100px;
+
+}
+
+@media (max-width:600px) {
+    #wlcm h1 {
+        font-size: 50px;
+    }
+
+    #wlcm h4 {
+        font-size: 20px;
+    }
+
+}
+
+#wlcm h4 {
+    font-size: 50px;
+
+}
+
+#wlcm button {
+    border-color: white;
+    color: white;
+}
+
+#work {
+    background-image: url('https://t4.ftcdn.net/jpg/04/15/42/27/360_F_415422702_Rkojk31mAW6my2wdAZnWL8jtvY1aCErU.jpg');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    margin-top: 7%;
+    padding-top: 50px;
+
+
+}
+
+#work h1 {
+    text-align: center;
+}
+
+#butnn {
+
+    border-color: var(--x);
+    background-color: rgba(255, 255, 255, 0.375);
+    color: var(--x);
+
+}
+
+#butnnn {
+    border-color: var(--x);
+    background-color: rgba(255, 255, 255, 0.375);
+    color: var(--x);
+
+}
+
+#butnn:hover {
+    background-color: var(--x);
+    color: white;
+    border-color: var(--x);
+}
+
+#about {
+    background-color: white;
+    padding-top: 8%;
+    padding-bottom: 10%;
+}
+
+#about h1 {
+    color: var(--x);
+}
+
+#hr {
+    background-color: var(--x);
+    width: 200px;
+    height: 7px;
+
+}
+
+#about p {
+    text-align: justify;
+}
+
+#aboutdiv {
+    border: 7px solid var(--x);
+    width: 80%;
+    height: 500px;
+    padding-top: 4%;
+    padding-left: 4%;
+}
+
+
+
+
+
