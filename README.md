@@ -1,7 +1,7 @@
 # 🍔 The Burger Cartel - Responsive Landing Page
 
 ## 📌 Project Overview
-**The Burger Cartel** is a fully responsive landing page built using HTML, CSS, and Bootstrap. It showcases a bold and modern layout with a strong visual appeal, designed to represent a fictional gourmet burger brand. This is **Task 1** from the landing page project series.
+**The Burger Cartel** is a fully responsive landing page built using HTML, CSS, and Bootstrap. It showcases a bold and modern layout with a strong visual appeal, designed to represent a fictional gourmet burger brand.
 
 ## 💻 Technologies Used
 - HTML5  
